@@ -1,5 +1,5 @@
 {
-  "name": "lucky_number_guesser",
+  "name": "guess_the_number_mastermind",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
